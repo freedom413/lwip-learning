@@ -83,6 +83,10 @@ Continuous integration builds (GCC, clang):
 
 DOCUMENTATION
 
+Chinese source-code learning guide for lwIP (protocols, data structures,
+socket APIs and RTOS porting):
+  doc/lwip-protocol-learning-guide.md
+
 Self documentation of the source code is regularly extracted from the current
 Git sources and is available from this web page:
   https://www.nongnu.org/lwip/
